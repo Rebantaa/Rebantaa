@@ -169,14 +169,5 @@ $ cat ~/.bashrc | grep -i contact
 ---
 
 ```bash
-$ uptime
-```
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rebantaa&show_icons=true&hide_border=true&hide_title=true&hide=contribs,prs&theme=transparent&icon_color=2ea44f&text_color=586069&title_color=24292e" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rebantaa&layout=compact&hide_border=true&theme=transparent&text_color=586069&title_color=24292e&langs_count=6" height="140" />
-</p>
-
-```bash
 $ exit
 ```
